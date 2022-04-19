@@ -107,6 +107,16 @@ SANGO Gutenbergでトップページなどをカスタマイズできるよう�
 
 ---
 
+<!-- classes: title -->
+<!-- background: '/assets/section.jpeg' -->
+
+
+# SANGO WEBINAR
+
+トップページカスタマイズ
+
+---
+
 
 ## デザインの王道を知ろう
 
@@ -270,6 +280,16 @@ SANGO Gutenbergでトップページなどをカスタマイズできるよう�
 
 ---
 
+<!-- classes: title -->
+<!-- background: '/assets/section.jpeg' -->
+
+
+# SANGO WEBINAR
+
+SANGO Landで追加されたおすすめのブロック紹介
+
+---
+
 ## SANGO Landで追加されたおすすめのブロックの紹介	
 
 <LinkImage 
@@ -354,6 +374,16 @@ SANGO Gutenbergでトップページなどをカスタマイズできるよう�
 
 <YouTube
   id="TFIAB04PcU8"
+/>
+
+---
+
+## SANGO Landにオリジナルブロックを投稿する方法
+
+<Sanko
+  url="https://saruwakakun.com/sango/sango-land-contribute"
+  title="SANGO Landにブロックを投稿する方法とメリットについて"
+  subtitle="SANGO カスタマイズガイド"
 />
 
 ---
