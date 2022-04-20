@@ -25,8 +25,8 @@ import { LinkImage } from '../src/link-image'
 
 - SANGO 現開発者
 - Blog Friends https://blog-friends.com/
-- Scroll Hint https://appleple.github.io/scroll-hint/
-- SmartPhoto https://appleple.github.io/SmartPhoto/
+- 息子 8ヶ月
+- 趣味 ゲーム（スマブラ
 
 
 <div style={{ display: 'flex' }}>
