@@ -79,13 +79,13 @@
   font: bold;
 }
 
-.swiper-slide:nth-child(2) img {
+.swiper-slide:nth-child(3) img {
   width: 150px;
   height: 150px;
   border-radius: 50%;
 }
 
-.swiper-slide:nth-child(2) ul {
+.swiper-slide:nth-child(3) ul {
   margin-top: 50px;
 }
 
