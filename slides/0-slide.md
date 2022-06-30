@@ -203,7 +203,10 @@ SANGO Gutenbergでトップページなどをカスタマイズできるよう�
 ```css
 .header {
   background-color: transparent;
-  margin-bottom: -62px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
   box-shadow: none;
 }
 ```
